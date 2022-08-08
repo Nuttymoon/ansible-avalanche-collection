@@ -1,5 +1,7 @@
 # Ansible Avalanche Collection
 
+:warning: **This project has been moved to [AshAvalanche/ansible-avalanche-collection](https://github.com/AshAvalanche/ansible-avalanche-collection) and the collection renamed to `ash.avalanche`** :warning:
+
 Collection providing Ansible roles, playbooks and modules to manage [Avalanche](https://docs.avax.network/) nodes, subnets and blockchains.
 
 ## Why an Ansible collection for Avalanche?
